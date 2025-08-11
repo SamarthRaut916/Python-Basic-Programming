@@ -5,7 +5,7 @@
 #### Supervisor: [Rohan Sul]
 
 # Table of Contents
-| Date       | Week | Day | Discussion Topic/Activity | Details Of Work Allotted Till Next Session/Corrections Suggested/Faculty Remarks |
+| Date       | Week | Day | Discussion Topic/Activity | Details Of Work Allotted |
 |------------|------|-----|---------------------------|----------------------------------------------------------------------------------|
 | 02-JUN-2025 | 1 | Monday | Introduction to Python & Setup | Introduction to Python, history, installing Python, IDLE, and basic syntax. Assignment: Write a simple 'Hello World' program and explore Python shell. |
 | 03-JUN-2025 | 1 | Tuesday | Variables & Basic Data Types | Variables, numbers (integers, floats), strings, and booleans. Assignment: Create variables of different types and perform basic operations. |
