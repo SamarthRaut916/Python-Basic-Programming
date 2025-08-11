@@ -1,0 +1,4 @@
+Week: 3
+Day: Monday
+Discussion Topic/Activity: Functions - Part 1
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Defining functions, parameters, return values. Assignment: Create functions for common mathematical operations.

@@ -1,0 +1,4 @@
+Week: 12
+Day: Tuesday
+Discussion Topic/Activity: Final Project - Implementation I
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Beginning implementation of the final project. Assignment: Implement core functionality of the final project.

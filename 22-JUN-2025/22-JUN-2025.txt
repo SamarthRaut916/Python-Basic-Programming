@@ -1,0 +1,4 @@
+Week: 3
+Day: Sunday
+Discussion Topic/Activity: Mini Project: Journal Application
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Develop a simple journal application that uses functions for organization and file operations for persistent storage.

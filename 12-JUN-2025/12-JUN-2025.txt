@@ -1,0 +1,4 @@
+Week: 2
+Day: Thursday
+Discussion Topic/Activity: Dictionaries & Sets
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Key-value pairs, dictionary methods, sets and their operations. Assignment: Create a simple phone book application using dictionaries.

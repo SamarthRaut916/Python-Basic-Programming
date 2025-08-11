@@ -1,0 +1,4 @@
+Week: 6
+Day: Monday
+Discussion Topic/Activity: Python Standard Library I
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Overview of os and sys modules. Assignment: Create a program to organize files in a directory by extension.

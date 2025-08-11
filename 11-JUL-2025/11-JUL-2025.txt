@@ -1,0 +1,4 @@
+Week: 6
+Day: Friday
+Discussion Topic/Activity: Code Documentation & Style
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: PEP 8 guidelines, docstrings, comments. Assignment: Refactor previous code following PEP 8 standards.

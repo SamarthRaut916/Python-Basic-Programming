@@ -1,0 +1,4 @@
+Week: 9
+Day: Saturday
+Discussion Topic/Activity: Web Projects Workshop
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Guided practice with web APIs and data processing. Assignment: Create a simple weather or news application using public APIs.

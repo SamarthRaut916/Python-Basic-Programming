@@ -1,0 +1,4 @@
+Week: 6
+Day: Saturday
+Discussion Topic/Activity: Regular Expressions Workshop
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Advanced regular expression practice. Assignment: Create pattern matching solutions for common text processing problems.

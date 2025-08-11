@@ -1,0 +1,4 @@
+Week: 9
+Day: Friday
+Discussion Topic/Activity: Python & Web Basic - BeautifulSoup
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Introduction to BeautifulSoup for web scraping. Assignment: Enhance the web scraper to parse and organize data.

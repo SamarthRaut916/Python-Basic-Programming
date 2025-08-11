@@ -1,0 +1,4 @@
+Week: 11
+Day: Saturday
+Discussion Topic/Activity: Interview Preparation Workshop
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Practice Python coding interview questions. Assignment: Solve common Python interview problems and practice explaining solutions.

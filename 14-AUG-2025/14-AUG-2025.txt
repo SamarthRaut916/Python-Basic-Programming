@@ -1,0 +1,4 @@
+Week: 11
+Day: Thursday
+Discussion Topic/Activity: Python Best Practices Review
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Review of Python coding standards, best practices. Assignment: Refactor parts of the Library Management System.

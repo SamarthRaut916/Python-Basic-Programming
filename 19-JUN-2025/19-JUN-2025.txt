@@ -1,0 +1,4 @@
+Week: 3
+Day: Thursday
+Discussion Topic/Activity: Working with Files - Part 2
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Writing to files, appending, with statement. Assignment: Create a simple note-taking application that reads/writes to a text file.

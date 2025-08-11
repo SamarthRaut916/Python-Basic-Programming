@@ -1,0 +1,4 @@
+Week: 2
+Day: Wednesday
+Discussion Topic/Activity: Lists & Tuples
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Creating lists, accessing elements, list methods, and tuples. Assignment: Create a simple to-do list application using lists.

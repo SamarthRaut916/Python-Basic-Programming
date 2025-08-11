@@ -1,0 +1,4 @@
+Week: 8
+Day: Tuesday
+Discussion Topic/Activity: Python GUI Intro - Tkinter II
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Layout management, event handling. Assignment: Create a simple calculator with GUI.

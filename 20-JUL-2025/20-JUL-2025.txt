@@ -1,0 +1,4 @@
+Week: 7
+Day: Sunday
+Discussion Topic/Activity: Project I - Enhancement
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Add additional features to the contact book application. Assignment: Implement search, sort, or export functionality.

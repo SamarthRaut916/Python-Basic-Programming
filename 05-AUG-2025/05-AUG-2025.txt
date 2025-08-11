@@ -1,0 +1,4 @@
+Week: 10
+Day: Tuesday
+Discussion Topic/Activity: Project II - Database Design
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Designing simple file-based storage for the Library Management System. Assignment: Create the data structure for books and members.

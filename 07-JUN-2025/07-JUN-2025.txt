@@ -1,0 +1,4 @@
+Week: 1
+Day: Saturday
+Discussion Topic/Activity: Weekly Review & Practice
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Review of basic Python concepts covered during the week. Practice Quiz: Complete a quiz covering variables, operators, I/O, and control flow.

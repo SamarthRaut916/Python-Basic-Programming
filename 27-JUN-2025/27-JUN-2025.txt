@@ -1,0 +1,4 @@
+Week: 4
+Day: Friday
+Discussion Topic/Activity: Date and Time Operations
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Using datetime module, date formatting, time calculations. Assignment: Create a program that displays days until a future event.

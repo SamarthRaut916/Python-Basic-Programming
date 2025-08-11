@@ -1,0 +1,4 @@
+Week: 11
+Day: Monday
+Discussion Topic/Activity: Project II - Enhancements
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Adding additional features to the Library Management System. Assignment: Add search functionality and reporting features.

@@ -1,0 +1,4 @@
+Week: 6
+Day: Wednesday
+Discussion Topic/Activity: Command-line Arguments
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Using sys.argv, argparse module. Assignment: Convert previous scripts to accept command-line arguments.

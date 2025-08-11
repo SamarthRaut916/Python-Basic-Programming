@@ -1,0 +1,4 @@
+Week: 4
+Day: Tuesday
+Discussion Topic/Activity: Modules - Part 2
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Creating custom modules, importing modules. Assignment: Create a custom module for the calculator functions.

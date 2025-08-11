@@ -1,0 +1,4 @@
+Week: 7
+Day: Monday
+Discussion Topic/Activity: Basic Testing
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Introduction to unittest framework, writing simple test cases. Assignment: Write basic tests for previous functions.

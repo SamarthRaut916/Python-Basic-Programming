@@ -1,0 +1,4 @@
+Week: 3
+Day: Wednesday
+Discussion Topic/Activity: Working with Files - Part 1
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Opening files, reading from files, file modes. Assignment: Create a program that reads and displays file content.

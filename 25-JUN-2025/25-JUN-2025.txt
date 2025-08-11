@@ -1,0 +1,4 @@
+Week: 4
+Day: Wednesday
+Discussion Topic/Activity: Working with CSV Files
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Reading and writing CSV files using the csv module. Assignment: Create a program to read and display data from a CSV file.

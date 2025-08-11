@@ -1,0 +1,4 @@
+Week: 2
+Day: Saturday
+Discussion Topic/Activity: Data Structures Review
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Review session: Practice exercises combining lists, tuples, dictionaries, and strings. Complete a comprehensive worksheet on data structures.

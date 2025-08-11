@@ -1,0 +1,4 @@
+Week: 10
+Day: Thursday
+Discussion Topic/Activity: Project II - User Interface
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Creating a basic interface for the Library Management System. Assignment: Create a menu-driven or simple GUI interface.

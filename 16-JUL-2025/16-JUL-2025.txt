@@ -1,0 +1,4 @@
+Week: 7
+Day: Wednesday
+Discussion Topic/Activity: Project I - Implementation
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Building the contact book application with features covered so far. Assignment: Implement the basic structure and functionality.

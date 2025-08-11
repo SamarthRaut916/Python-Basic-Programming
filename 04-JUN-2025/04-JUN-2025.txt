@@ -1,0 +1,4 @@
+Week: 1
+Day: Wednesday
+Discussion Topic/Activity: Basic Operators
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Arithmetic, comparison, logical, and assignment operators. Assignment: Write a simple calculator program using basic operators.

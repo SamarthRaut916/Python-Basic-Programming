@@ -1,0 +1,4 @@
+Week: 1
+Day: Monday
+Discussion Topic/Activity: Introduction to Python & Setup
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Introduction to Python, history, installing Python, IDLE, and basic syntax. Assignment: Write a simple 'Hello World' program and explore Python shell.

@@ -1,0 +1,4 @@
+Week: 5
+Day: Sunday
+Discussion Topic/Activity: Mini Project: Object-Oriented Program
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Design and implement a small object-oriented program (e.g., a library management system) using inheritance and proper OOP principles.

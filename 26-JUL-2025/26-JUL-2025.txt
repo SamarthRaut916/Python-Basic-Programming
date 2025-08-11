@@ -1,0 +1,4 @@
+Week: 8
+Day: Saturday
+Discussion Topic/Activity: GUI Design Workshop
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Practice session on GUI design principles and Tkinter best practices. Assignment: Improve the UI/UX of your Tkinter application.

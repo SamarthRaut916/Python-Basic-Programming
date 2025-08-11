@@ -1,0 +1,4 @@
+Week: 3
+Day: Friday
+Discussion Topic/Activity: Error Handling
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Try-except blocks, handling specific exceptions. Assignment: Add error handling to previous file handling program.

@@ -1,0 +1,4 @@
+Week: 10
+Day: Friday
+Discussion Topic/Activity: Project II - Testing
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Testing the Library Management System for bugs. Assignment: Create a test plan and execute it.

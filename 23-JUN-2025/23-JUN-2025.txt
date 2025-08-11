@@ -1,0 +1,4 @@
+Week: 4
+Day: Monday
+Discussion Topic/Activity: Modules - Part 1
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Using built-in modules like math, random, and time. Assignment: Create a dice rolling simulator using the random module.

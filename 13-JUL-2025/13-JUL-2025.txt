@@ -1,0 +1,4 @@
+Week: 6
+Day: Sunday
+Discussion Topic/Activity: Mini Project: File System Utility
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Create a command-line utility that uses standard library modules to perform various file system operations with proper documentation.

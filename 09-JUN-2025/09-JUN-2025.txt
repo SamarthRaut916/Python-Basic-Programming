@@ -1,0 +1,4 @@
+Week: 2
+Day: Monday
+Discussion Topic/Activity: Control Flow: Loops - Part 1
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: While loops, infinite loops, break and continue statements. Assignment: Write a simple number guessing game using while loops.

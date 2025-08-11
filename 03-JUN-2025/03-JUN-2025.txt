@@ -1,0 +1,4 @@
+Week: 1
+Day: Tuesday
+Discussion Topic/Activity: Variables & Basic Data Types
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Variables, numbers (integers, floats), strings, and booleans. Assignment: Create variables of different types and perform basic operations.

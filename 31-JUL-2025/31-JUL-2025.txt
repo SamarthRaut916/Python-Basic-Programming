@@ -1,0 +1,4 @@
+Week: 9
+Day: Thursday
+Discussion Topic/Activity: Python & Web Basic - Requests
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Using the requests library to interact with websites. Assignment: Create a simple web scraper to extract information.

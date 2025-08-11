@@ -1,0 +1,4 @@
+Week: 6
+Day: Thursday
+Discussion Topic/Activity: Regular Expressions - Basics
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Pattern matching with re module. Assignment: Create a program to validate email addresses.

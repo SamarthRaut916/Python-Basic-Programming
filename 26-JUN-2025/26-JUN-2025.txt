@@ -1,0 +1,4 @@
+Week: 4
+Day: Thursday
+Discussion Topic/Activity: Working with JSON Data
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Using json module to read and write JSON data. Assignment: Create a program to store and retrieve data in JSON format.

@@ -1,0 +1,4 @@
+Week: 11
+Day: Tuesday
+Discussion Topic/Activity: Project II - Documentation
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Documenting the Library Management System code and usage. Assignment: Create user and developer documentation.

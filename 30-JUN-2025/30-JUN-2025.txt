@@ -1,0 +1,4 @@
+Week: 5
+Day: Monday
+Discussion Topic/Activity: Basic Data Structures
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Lists, stacks, queues, and their implementations. Assignment: Implement a stack and a queue using Python lists.

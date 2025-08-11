@@ -1,0 +1,4 @@
+Week: 3
+Day: Tuesday
+Discussion Topic/Activity: Functions - Part 2
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Default parameters, variable scope, lambda functions. Assignment: Refactor the number guessing game using functions.

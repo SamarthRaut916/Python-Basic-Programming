@@ -1,0 +1,4 @@
+Week: 6
+Day: Tuesday
+Discussion Topic/Activity: Python Standard Library II
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Working with pathlib, glob modules. Assignment: Create a script that searches for files with a specific pattern.

@@ -1,0 +1,4 @@
+Week: 7
+Day: Saturday
+Discussion Topic/Activity: Code Review Session
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Peer code review of Project I. Assignment: Review another student's code and provide constructive feedback.

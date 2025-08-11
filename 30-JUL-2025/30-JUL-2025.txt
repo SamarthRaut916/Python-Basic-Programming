@@ -1,0 +1,4 @@
+Week: 9
+Day: Wednesday
+Discussion Topic/Activity: Introduction to Web Concepts
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Basic web concepts, HTTP, HTML basics. Assignment: Create a simple HTML page.

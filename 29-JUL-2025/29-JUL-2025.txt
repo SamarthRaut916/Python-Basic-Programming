@@ -1,0 +1,4 @@
+Week: 9
+Day: Tuesday
+Discussion Topic/Activity: Python GUI Project Finalization
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Finalizing and testing the Todo List application. Assignment: Test and polish the Todo List application.

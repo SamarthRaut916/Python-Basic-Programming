@@ -1,0 +1,4 @@
+Week: 8
+Day: Wednesday
+Discussion Topic/Activity: Python GUI Intro - Tkinter III
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Menus, dialogs, and advanced widgets. Assignment: Add menus and dialog boxes to the calculator application.

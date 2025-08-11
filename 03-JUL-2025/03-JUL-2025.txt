@@ -1,0 +1,4 @@
+Week: 5
+Day: Thursday
+Discussion Topic/Activity: Introduction to OOP - Part 2
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Constructor, self parameter, instance methods. Assignment: Create a Bank Account class with deposit and withdraw methods.

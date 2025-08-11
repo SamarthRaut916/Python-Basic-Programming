@@ -1,0 +1,4 @@
+Week: 1
+Day: Sunday
+Discussion Topic/Activity: Mini Project: Simple Calculator
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Apply the week's learning to create a calculator application with a user interface that handles basic operations and error checking.

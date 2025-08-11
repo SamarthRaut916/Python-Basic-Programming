@@ -1,0 +1,4 @@
+Week: 8
+Day: Monday
+Discussion Topic/Activity: Python GUI Intro - Tkinter I
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Introduction to Tkinter, basic widgets (labels, buttons). Assignment: Create a simple GUI application with basic widgets.

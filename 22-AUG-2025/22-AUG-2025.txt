@@ -1,0 +1,4 @@
+Week: 12
+Day: Friday
+Discussion Topic/Activity: Final Project Presentation
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Present the final project to demonstrate Python skills. Assignment: Deliver a comprehensive presentation of the final project.

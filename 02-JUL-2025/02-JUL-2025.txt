@@ -1,0 +1,4 @@
+Week: 5
+Day: Wednesday
+Discussion Topic/Activity: Introduction to OOP - Part 1
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Classes, objects, attributes, and methods. Assignment: Create a simple class to represent a Rectangle with methods.

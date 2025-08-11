@@ -1,0 +1,4 @@
+Week: 8
+Day: Thursday
+Discussion Topic/Activity: Python GUI Project Start
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Planning a GUI-based application (Todo List App). Assignment: Design the interface for a Todo List application.

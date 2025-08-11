@@ -1,0 +1,4 @@
+Week: 2
+Day: Tuesday
+Discussion Topic/Activity: Control Flow: Loops - Part 2
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: For loops, range function, nested loops. Assignment: Create a program to print patterns using nested loops.

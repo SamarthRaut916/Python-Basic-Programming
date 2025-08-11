@@ -1,0 +1,4 @@
+Week: 11
+Day: Sunday
+Discussion Topic/Activity: Portfolio Development
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Work on developing a programming portfolio. Assignment: Set up a GitHub repository with your best projects and documentation.

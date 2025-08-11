@@ -1,0 +1,4 @@
+Week: 3
+Day: Saturday
+Discussion Topic/Activity: Functions & Files Workshop
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Practice session: Combine functions and file handling. Assignment: Create utility functions for common file operations.

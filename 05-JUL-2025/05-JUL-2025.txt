@@ -1,0 +1,4 @@
+Week: 5
+Day: Saturday
+Discussion Topic/Activity: Algorithms & Data Structures Practice
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Practice implementing common algorithms and data structures. Assignment: Implement binary search and selection sort algorithms.

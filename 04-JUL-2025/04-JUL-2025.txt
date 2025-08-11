@@ -1,0 +1,4 @@
+Week: 5
+Day: Friday
+Discussion Topic/Activity: Introduction to OOP - Part 3
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Inheritance basics, creating child classes. Assignment: Extend the Bank Account class with Savings and Checking account types.

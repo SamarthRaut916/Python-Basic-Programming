@@ -1,0 +1,4 @@
+Week: 7
+Day: Friday
+Discussion Topic/Activity: Project I - Presentation
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Presenting the contact book application, code review. Assignment: Finalize and present the contact book application.

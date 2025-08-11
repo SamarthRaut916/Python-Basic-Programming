@@ -1,0 +1,4 @@
+Week: 8
+Day: Sunday
+Discussion Topic/Activity: GUI Project Extension
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Add advanced features to your GUI application. Assignment: Implement themes, preferences, or data visualization components.

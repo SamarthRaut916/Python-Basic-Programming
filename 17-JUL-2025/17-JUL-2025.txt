@@ -1,0 +1,4 @@
+Week: 7
+Day: Thursday
+Discussion Topic/Activity: Project I - Testing & Debugging
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Testing the application, finding and fixing bugs. Assignment: Test and debug the contact book application.

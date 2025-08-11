@@ -1,0 +1,4 @@
+Week: 2
+Day: Friday
+Discussion Topic/Activity: Strings in Detail
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: String operations, methods, slicing, and formatting. Assignment: Create a text analyzer that counts words, characters, etc.

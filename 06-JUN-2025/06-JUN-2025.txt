@@ -1,0 +1,4 @@
+Week: 1
+Day: Friday
+Discussion Topic/Activity: Control Flow: if-else
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Conditional statements, if, elif, else structures. Assignment: Write a program that determines grade based on marks input.

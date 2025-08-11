@@ -1,0 +1,4 @@
+Week: 9
+Day: Monday
+Discussion Topic/Activity: Python GUI Project Enhancement
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Adding file operations to the Todo List app. Assignment: Implement save and load functionality for the Todo List app.

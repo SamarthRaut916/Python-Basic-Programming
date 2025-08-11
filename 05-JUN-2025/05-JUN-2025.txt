@@ -1,0 +1,4 @@
+Week: 1
+Day: Thursday
+Discussion Topic/Activity: Input and Output Operations
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Using input() function, printing output with print(), string formatting. Assignment: Create a program that asks for user information and displays it.

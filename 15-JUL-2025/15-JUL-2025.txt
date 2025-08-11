@@ -1,0 +1,4 @@
+Week: 7
+Day: Tuesday
+Discussion Topic/Activity: Project I - Planning
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Introduction to project planning, requirements gathering. Assignment: Create a plan for a simple console-based contact book application.

@@ -1,0 +1,4 @@
+Week: 8
+Day: Friday
+Discussion Topic/Activity: Python GUI Project Implementation
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Implementing the Todo List application with Tkinter. Assignment: Complete the basic functionality of the Todo List app.

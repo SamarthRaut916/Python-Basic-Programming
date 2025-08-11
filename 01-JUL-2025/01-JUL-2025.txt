@@ -1,0 +1,4 @@
+Week: 5
+Day: Tuesday
+Discussion Topic/Activity: Introduction to Algorithms
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Basic search and sort algorithms. Assignment: Implement linear search and bubble sort algorithms.

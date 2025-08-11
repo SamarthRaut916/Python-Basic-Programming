@@ -1,0 +1,4 @@
+Week: 10
+Day: Wednesday
+Discussion Topic/Activity: Project II - Core Functionality
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Implementing core functionality of the Library Management System. Assignment: Implement book check-out and return functions.

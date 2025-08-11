@@ -1,0 +1,4 @@
+Week: 2
+Day: Sunday
+Discussion Topic/Activity: Mini Project: Text Analysis Tool
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Create a text analysis application that uses lists, dictionaries, and string methods to analyze and report on text input by users.

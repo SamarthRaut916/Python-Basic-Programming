@@ -1,0 +1,4 @@
+Week: 4
+Day: Sunday
+Discussion Topic/Activity: Mini Project: Data Conversion Tool
+Details Of Work Allotted Till Next Session/ Corrections Suggested / Faculty Remarks: Create an application that can convert between different data formats (text, CSV, JSON) using appropriate modules.
